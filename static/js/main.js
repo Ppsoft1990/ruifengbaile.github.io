@@ -346,7 +346,7 @@ $(function () {
                 "",
                 "Best regards,",
                 "[Your Name]"
-            ].join("\n");
+            ].join("<br />");
 
 
             // 构建邮件链接
