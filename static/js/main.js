@@ -291,7 +291,7 @@ $(function () {
 
     function sendEmail(email) {
         var mailtoLink = 'mailto:' + email;
-        if (order && order.length > 0) {
+        if (order && order.length > 0 && !(navigator.userAgent.toLowerCase().indexOf("micromessenger") > -1)) {
             // 获取产品信息
             var productTitle = document.querySelector("h2.title").textContent.trim();
             var descriptionElement = document.querySelector('div.short-desc');
