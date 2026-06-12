@@ -193,7 +193,7 @@
                     <div class="hero-slider-content col-md-6 col-md-offset-6 col-sm-7 col-sm-offset-5 col-xs-12">
                         <h4 class="wow rotateInDownLeft" data-wow-duration="1s" data-wow-delay="0.5s">Selected products</h4>
                         <p class="wow fadeInUp hero-slider-content-fade-in-up" data-wow-duration="0.5s" data-wow-delay="0.5s">Engineered for Perfect Light</p>
-                        <p class="wow fadeInUp" data-wow-duration="0.5" data-wow-delay="0.5s">Sharply focused beams to highlight displays, products, and spacesâengineered for maximum visual impact.Designed for retail, galleries, and hospitalityâwhere lighting is everything.</p>
+                        <p class="wow fadeInUp" data-wow-duration="0.5" data-wow-delay="0.5s">Sharply focused beams to highlight displays, products, and spaces—engineered for maximum visual impact.Designed for retail, galleries, and hospitality—where lighting is everything.</p>
                         <a href="/category-LED-Surface-Light.html" class="wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.5s">Upgrade now</a>
                     </div>
                 </div>
@@ -206,7 +206,7 @@
                     <div class="hero-slider-content col-md-6 col-md-offset-6 col-sm-7 col-sm-offset-5 col-xs-12">
                         <h4 class="wow rotateInDownLeft" data-wow-duration="1s" data-wow-delay="0.5s">Optimized For</h4>
                         <p class="wow fadeInUp hero-slider-content-fade-in-up" data-wow-duration="0.5s" data-wow-delay="0.5s">Energy-Efficient & Sustainable</p>
-                        <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">High-efficiency LED track lightsâreduce energy costs without compromising brightness or beam consistency. Easy to move and tweak by handâno complicated setup, just light that fits your space.</p>
+                        <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">High-efficiency LED track lights—reduce energy costs without compromising brightness or beam consistency. Easy to move and tweak by hand—no complicated setup, just light that fits your space.</p>
                         <a href="/category-LED-Track-Light.html" class="wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.5s">Order now</a>
                     </div>
                 </div>
@@ -234,17 +234,17 @@
                             <div class="col-md-3 col-sm-4 col-xs-6 col-xs-wide mb-40">
                                 <div class="product-item text-center">
                                     <div class="product-img">
-                                        <a class="image" href="product-detail-64.html"><img style="height: 100%;" src="pictures/14786f2d-7610-447f-b4ca-1feb60c06b9c" alt="12V COB STRIPS - Led Strip"></a>
-                                        <a href="product-detail-64.html" class="add-to-cart">VIEW PRODUCT</a>
+                                        <a class="image" href="product-detail-51.html"><img style="height: 100%;" src="pictures/c92c9521-219a-4ce7-ba82-e64699cd10bb" alt="G - Wall Lamp"></a>
+                                        <a href="product-detail-51.html" class="add-to-cart">VIEW PRODUCT</a>
                                         <div class="action-btn fix">
-                                            <a href="product-detail-64.html" title="Wishlist"><i class="pe-7s-like"></i></a>
-                                            <a href="product-detail-64.html" data-toggle="modal" data-target="#productModal" title="Quickview"><i
+                                            <a href="product-detail-51.html" title="Wishlist"><i class="pe-7s-like"></i></a>
+                                            <a href="product-detail-51.html" data-toggle="modal" data-target="#productModal" title="Quickview"><i
                                                         class="pe-7s-look"></i></a>
-                                            <a href="product-detail-64.html" title=""><i class="pe-7s-repeat"></i></a>
+                                            <a href="product-detail-51.html" title=""><i class="pe-7s-repeat"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-info">
-                                        <h5 class="title"><a href="product-detail-64.html">12V COB STRIPS - Led Strip</a></h5>
+                                        <h5 class="title"><a href="product-detail-51.html">G - Wall Lamp</a></h5>
 
                                     </div>
                                 </div>
@@ -254,17 +254,17 @@
                             <div class="col-md-3 col-sm-4 col-xs-6 col-xs-wide mb-40">
                                 <div class="product-item text-center">
                                     <div class="product-img">
-                                        <a class="image" href="product-detail-50.html"><img style="height: 100%;" src="pictures/3b2a3a6a-9c6a-4ddc-acd9-06adbcbe252f" alt="F - Wall Lamp"></a>
-                                        <a href="product-detail-50.html" class="add-to-cart">VIEW PRODUCT</a>
+                                        <a class="image" href="product-detail-62.html"><img style="height: 100%;" src="pictures/14133932-5863-4745-9587-19f29aea4daf" alt="I - Led Out Door Products"></a>
+                                        <a href="product-detail-62.html" class="add-to-cart">VIEW PRODUCT</a>
                                         <div class="action-btn fix">
-                                            <a href="product-detail-50.html" title="Wishlist"><i class="pe-7s-like"></i></a>
-                                            <a href="product-detail-50.html" data-toggle="modal" data-target="#productModal" title="Quickview"><i
+                                            <a href="product-detail-62.html" title="Wishlist"><i class="pe-7s-like"></i></a>
+                                            <a href="product-detail-62.html" data-toggle="modal" data-target="#productModal" title="Quickview"><i
                                                         class="pe-7s-look"></i></a>
-                                            <a href="product-detail-50.html" title=""><i class="pe-7s-repeat"></i></a>
+                                            <a href="product-detail-62.html" title=""><i class="pe-7s-repeat"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-info">
-                                        <h5 class="title"><a href="product-detail-50.html">F - Wall Lamp</a></h5>
+                                        <h5 class="title"><a href="product-detail-62.html">I - Led Out Door Products</a></h5>
 
                                     </div>
                                 </div>
@@ -274,17 +274,17 @@
                             <div class="col-md-3 col-sm-4 col-xs-6 col-xs-wide mb-40">
                                 <div class="product-item text-center">
                                     <div class="product-img">
-                                        <a class="image" href="product-detail-82.html"><img style="height: 100%;" src="pictures/d59dda70-fc5b-4c18-a8ef-538a17dc9082" alt="LED  Track Light - LED Track Light"></a>
-                                        <a href="product-detail-82.html" class="add-to-cart">VIEW PRODUCT</a>
+                                        <a class="image" href="product-detail-66.html"><img style="height: 100%;" src="pictures/db183dac-ff10-41cb-a6d3-73cd861568db" alt="12V LED STRIPS - Led Strip"></a>
+                                        <a href="product-detail-66.html" class="add-to-cart">VIEW PRODUCT</a>
                                         <div class="action-btn fix">
-                                            <a href="product-detail-82.html" title="Wishlist"><i class="pe-7s-like"></i></a>
-                                            <a href="product-detail-82.html" data-toggle="modal" data-target="#productModal" title="Quickview"><i
+                                            <a href="product-detail-66.html" title="Wishlist"><i class="pe-7s-like"></i></a>
+                                            <a href="product-detail-66.html" data-toggle="modal" data-target="#productModal" title="Quickview"><i
                                                         class="pe-7s-look"></i></a>
-                                            <a href="product-detail-82.html" title=""><i class="pe-7s-repeat"></i></a>
+                                            <a href="product-detail-66.html" title=""><i class="pe-7s-repeat"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-info">
-                                        <h5 class="title"><a href="product-detail-82.html">LED  Track Light - LED Track Light</a></h5>
+                                        <h5 class="title"><a href="product-detail-66.html">12V LED STRIPS - Led Strip</a></h5>
 
                                     </div>
                                 </div>
@@ -294,17 +294,37 @@
                             <div class="col-md-3 col-sm-4 col-xs-6 col-xs-wide mb-40">
                                 <div class="product-item text-center">
                                     <div class="product-img">
-                                        <a class="image" href="product-detail-65.html"><img style="height: 100%;" src="pictures/61412900-9e21-4f74-8bcb-9eb80ed13792" alt="12V LED STRIPS - Led Strip"></a>
-                                        <a href="product-detail-65.html" class="add-to-cart">VIEW PRODUCT</a>
+                                        <a class="image" href="product-detail-46.html"><img style="height: 100%;" src="pictures/6943a77a-9674-4ae1-be09-1136be1ae0b5" alt="B - Wall Lamp"></a>
+                                        <a href="product-detail-46.html" class="add-to-cart">VIEW PRODUCT</a>
                                         <div class="action-btn fix">
-                                            <a href="product-detail-65.html" title="Wishlist"><i class="pe-7s-like"></i></a>
-                                            <a href="product-detail-65.html" data-toggle="modal" data-target="#productModal" title="Quickview"><i
+                                            <a href="product-detail-46.html" title="Wishlist"><i class="pe-7s-like"></i></a>
+                                            <a href="product-detail-46.html" data-toggle="modal" data-target="#productModal" title="Quickview"><i
                                                         class="pe-7s-look"></i></a>
-                                            <a href="product-detail-65.html" title=""><i class="pe-7s-repeat"></i></a>
+                                            <a href="product-detail-46.html" title=""><i class="pe-7s-repeat"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-info">
-                                        <h5 class="title"><a href="product-detail-65.html">12V LED STRIPS - Led Strip</a></h5>
+                                        <h5 class="title"><a href="product-detail-46.html">B - Wall Lamp</a></h5>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- product-item end -->
+                            <!-- product-item start -->
+                            <div class="col-md-3 col-sm-4 col-xs-6 col-xs-wide mb-40">
+                                <div class="product-item text-center">
+                                    <div class="product-img">
+                                        <a class="image" href="product-detail-47.html"><img style="height: 100%;" src="pictures/5846080f-1151-4cef-bf30-c1a438f2863d" alt="C - Wall Lamp"></a>
+                                        <a href="product-detail-47.html" class="add-to-cart">VIEW PRODUCT</a>
+                                        <div class="action-btn fix">
+                                            <a href="product-detail-47.html" title="Wishlist"><i class="pe-7s-like"></i></a>
+                                            <a href="product-detail-47.html" data-toggle="modal" data-target="#productModal" title="Quickview"><i
+                                                        class="pe-7s-look"></i></a>
+                                            <a href="product-detail-47.html" title=""><i class="pe-7s-repeat"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="product-info">
+                                        <h5 class="title"><a href="product-detail-47.html">C - Wall Lamp</a></h5>
 
                                     </div>
                                 </div>
@@ -334,46 +354,6 @@
                             <div class="col-md-3 col-sm-4 col-xs-6 col-xs-wide mb-40">
                                 <div class="product-item text-center">
                                     <div class="product-img">
-                                        <a class="image" href="product-detail-51.html"><img style="height: 100%;" src="pictures/c92c9521-219a-4ce7-ba82-e64699cd10bb" alt="G - Wall Lamp"></a>
-                                        <a href="product-detail-51.html" class="add-to-cart">VIEW PRODUCT</a>
-                                        <div class="action-btn fix">
-                                            <a href="product-detail-51.html" title="Wishlist"><i class="pe-7s-like"></i></a>
-                                            <a href="product-detail-51.html" data-toggle="modal" data-target="#productModal" title="Quickview"><i
-                                                        class="pe-7s-look"></i></a>
-                                            <a href="product-detail-51.html" title=""><i class="pe-7s-repeat"></i></a>
-                                        </div>
-                                    </div>
-                                    <div class="product-info">
-                                        <h5 class="title"><a href="product-detail-51.html">G - Wall Lamp</a></h5>
-
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- product-item end -->
-                            <!-- product-item start -->
-                            <div class="col-md-3 col-sm-4 col-xs-6 col-xs-wide mb-40">
-                                <div class="product-item text-center">
-                                    <div class="product-img">
-                                        <a class="image" href="product-detail-58.html"><img style="height: 100%;" src="pictures/cfc35a64-f69a-450b-ad26-52afd22281ca" alt="E - Led Out Door Products"></a>
-                                        <a href="product-detail-58.html" class="add-to-cart">VIEW PRODUCT</a>
-                                        <div class="action-btn fix">
-                                            <a href="product-detail-58.html" title="Wishlist"><i class="pe-7s-like"></i></a>
-                                            <a href="product-detail-58.html" data-toggle="modal" data-target="#productModal" title="Quickview"><i
-                                                        class="pe-7s-look"></i></a>
-                                            <a href="product-detail-58.html" title=""><i class="pe-7s-repeat"></i></a>
-                                        </div>
-                                    </div>
-                                    <div class="product-info">
-                                        <h5 class="title"><a href="product-detail-58.html">E - Led Out Door Products</a></h5>
-
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- product-item end -->
-                            <!-- product-item start -->
-                            <div class="col-md-3 col-sm-4 col-xs-6 col-xs-wide mb-40">
-                                <div class="product-item text-center">
-                                    <div class="product-img">
                                         <a class="image" href="product-detail-45.html"><img style="height: 100%;" src="pictures/8cd54780-3600-4559-bc76-35fccd61d5dd" alt="A - Wall Lamp"></a>
                                         <a href="product-detail-45.html" class="add-to-cart">VIEW PRODUCT</a>
                                         <div class="action-btn fix">
@@ -385,6 +365,26 @@
                                     </div>
                                     <div class="product-info">
                                         <h5 class="title"><a href="product-detail-45.html">A - Wall Lamp</a></h5>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- product-item end -->
+                            <!-- product-item start -->
+                            <div class="col-md-3 col-sm-4 col-xs-6 col-xs-wide mb-40">
+                                <div class="product-item text-center">
+                                    <div class="product-img">
+                                        <a class="image" href="product-detail-81.html"><img style="height: 100%;" src="pictures/863cd7ea-5ea4-4e13-9892-036654c2b1aa" alt="LED  Track Light - LED Track Light"></a>
+                                        <a href="product-detail-81.html" class="add-to-cart">VIEW PRODUCT</a>
+                                        <div class="action-btn fix">
+                                            <a href="product-detail-81.html" title="Wishlist"><i class="pe-7s-like"></i></a>
+                                            <a href="product-detail-81.html" data-toggle="modal" data-target="#productModal" title="Quickview"><i
+                                                        class="pe-7s-look"></i></a>
+                                            <a href="product-detail-81.html" title=""><i class="pe-7s-repeat"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="product-info">
+                                        <h5 class="title"><a href="product-detail-81.html">LED  Track Light - LED Track Light</a></h5>
 
                                     </div>
                                 </div>
@@ -406,7 +406,7 @@
                     <div class="testimonial-slider text-center">
                         <div class="single-testimonial">
                             <img src="static/picture/comment-2.jpg" alt="">
-                            <p>â In the past, we were constantly replacing bulbs, but with [RuiFengBaiLe Led Lighting Bright Shinning], we haven't had to worry about it at all. It's such a relief to know we can count on their products to not only look great but to perform flawlessly for years to come. I highly recommend [RuiFengBaile Lighting] to anyone looking for high-quality, dependable lighting solutions. You won't be disappointed! â</p>
+                            <p>“ In the past, we were constantly replacing bulbs, but with [RuiFengBaiLe Led Lighting Bright Shinning], we haven't had to worry about it at all. It's such a relief to know we can count on their products to not only look great but to perform flawlessly for years to come. I highly recommend [RuiFengBaile Lighting] to anyone looking for high-quality, dependable lighting solutions. You won't be disappointed! ”</p>
                             <i class="pe-7s-way"></i>
                             <h5>Diane Paul</h5>
                         </div>
@@ -414,7 +414,7 @@
                         <!-- Single Testimonial -->
                         <div class="single-testimonial">
                             <img src="static/picture/31.png" alt="">
-                            <p>â As the owner of a high-end restaurant, I understand the importance of creating the perfect ambiance for our guests. When we decided to upgrade our lighting, we chose [RuiFengBaiLe Led Lighting Bright Shinning] for their reputation and the quality of their products. From the moment we installed their fixtures, we knew we made the right choice. â</p>
+                            <p>“ As the owner of a high-end restaurant, I understand the importance of creating the perfect ambiance for our guests. When we decided to upgrade our lighting, we chose [RuiFengBaiLe Led Lighting Bright Shinning] for their reputation and the quality of their products. From the moment we installed their fixtures, we knew we made the right choice. ”</p>
                             <i class="pe-7s-way"></i>
                             <h5>Lucy Lingar</h5>
                         </div>
@@ -422,7 +422,7 @@
                         <!-- Single Testimonial -->
                         <div class="single-testimonial">
                             <img src="static/picture/comment-1.jpg" alt="">
-                            <p>â At our company, we are driven by a passion for illumination and a commitment to excellence. Our vision is to be the leading innovator in the lighting industry, transforming spaces with our cutting-edge designs and sustainable solutions. We believe that lighting is more than just a functional necessity; it is an art form that can enhance the beauty and functionality of any environment.â</p>
+                            <p>“ At our company, we are driven by a passion for illumination and a commitment to excellence. Our vision is to be the leading innovator in the lighting industry, transforming spaces with our cutting-edge designs and sustainable solutions. We believe that lighting is more than just a functional necessity; it is an art form that can enhance the beauty and functionality of any environment.”</p>
                             <i class="pe-7s-way"></i>
                             <h5>Mr Pan.</h5>
                         </div>
@@ -590,7 +590,7 @@
         <div class="row">
             <!-- Copyright -->
             <div class="copyright text-left col-sm-6 col-xs-12">
-                <p>Copyright Â© 2013-2025. RuiFengBaile International Inc. All rights reserved.  <br /> çè±ç¾æ¨åéæéå¬å¸çæ¬ææ</a></p>
+                <p>Copyright © 2013-2025. RuiFengBaile International Inc. All rights reserved.  <br /> 瑞豐百樂國際有限公司版權所有</a></p>
             </div>
             <!-- Payment Method -->
             <div class="payment-method text-right col-sm-6 col-xs-12">
