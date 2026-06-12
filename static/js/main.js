@@ -259,3 +259,77 @@ function isValidEmail(email) {
 
     }
 })();
+
+
+$(function () {
+    var order = $('#order-product');
+    if (order) {
+
+        order.click(function () {
+            // 获取产品信息
+            var productTitle = document.querySelector("h2.title").textContent.trim();
+            var descriptionElement = document.querySelector('div.short-desc');
+            var productDescription = descriptionElement ?
+                descriptionElement.textContent.trim()
+                    .split('\n')
+                    .map(function (line) {
+                        return line.trim();
+                    })
+                    .filter(Boolean)
+                    .join('\n') : '';
+
+            var quantityInput = document.querySelector(".product-quantity input");
+            var quantity = quantityInput ? quantityInput.value : '1';
+            var pageUrl = window.location.href;
+            // 构建邮件内容 (ES5字符串拼接)
+            var emailSubject = 'Inquiry About ' + productTitle;
+
+            // 邮件正文生成部分优化
+            var emailBody = [
+                "✨ PURCHASE INQUIRY ✨",
+                "",
+                "🛒 Product: " + productTitle,
+                "🔢 Quantity: " + quantity,
+                "🌐 URL: " + pageUrl,
+                "",
+                "",
+                "📝 Product Description:",
+                "──────────────────────",
+                productDescription.replace(/^/gm, "• ").replace(/\n+/g, "\n"),
+                "",
+                "",
+                "🔍 Requested Information:",
+                "──────────────────────",
+                "✓ Availability & Bulk Pricing",
+                "✓ Shipping Options to [Country]",
+                "✓ Accepted Payment Methods",
+                "✓ Customization (OEM/ODM)",
+                "✓ Sample Availability",
+                "✓ Warranty Terms",
+                "",
+                "",
+                "📮 Contact Details:",
+                "──────────────────────",
+                "👤 Name:    [Your Name]",
+                "🏢 Company: [Your Company]",
+                "✉️ Email:   [your@email.com]",
+                "📞 Phone:   [+Country Code]",
+                "",
+                "",
+                "Looking forward to your reply.",
+                "",
+                "Best regards,",
+                "[Your Name]"
+            ].join("\n");
+
+
+            // 构建邮件链接
+            var mailtoLink = 'mailto:pan_song_bo@hotmail.com?' +
+                'subject=' + encodeURIComponent(emailSubject) + '&' +
+                'body=' + encodeURIComponent(emailBody);
+            window.open(mailtoLink, "_blank");
+
+        });
+    }
+
+});
