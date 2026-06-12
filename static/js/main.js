@@ -263,9 +263,35 @@ function isValidEmail(email) {
 
 $(function () {
     var order = $('#order-product');
-    if (order) {
 
-        order.click(function () {
+    const footerWidget = document.querySelector('.footer-widget-break-word');
+    if (footerWidget) {
+        // 获取所有的mailto链接
+        const emailLinks = footerWidget.querySelectorAll('a[href^="mailto:"]');
+
+        // 为每个email链接添加点击事件
+        emailLinks.forEach(link => {
+            link.addEventListener('click', function (e) {
+                e.preventDefault(); // 阻止默认行为
+                const email = this.href.replace('mailto:', ''); // 提取纯email地址
+                console.log('点击的Email:', email);
+                sendEmail(email);
+            });
+        });
+
+        if (order && order.length > 0) {
+            order.click(function () {
+                if (emailLinks.length > 0) {
+                    sendEmail(emailLinks[0]);
+                }
+            });
+        }
+    }
+
+
+    function sendEmail(email) {
+        var mailtoLink = 'mailto:' + email;
+        if (order && order.length > 0) {
             // 获取产品信息
             var productTitle = document.querySelector("h2.title").textContent.trim();
             var descriptionElement = document.querySelector('div.short-desc');
@@ -324,10 +350,19 @@ $(function () {
 
 
             // 构建邮件链接
-            var mailtoLink = 'mailto:pan_song_bo@hotmail.com?' +
+            mailtoLink = mailtoLink + '?' +
                 'subject=' + encodeURIComponent(emailSubject) + '&' +
                 'body=' + encodeURIComponent(emailBody);
             window.open(mailtoLink, "_blank");
+        } else {
+            window.open(mailtoLink, "_blank");
+        }
+    }
+
+
+    if (order) {
+        order.click(function () {
+
 
         });
     }
